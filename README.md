@@ -31,7 +31,7 @@ Estos ejercicios ayudaron a consolidar su comprensión de los conceptos estadís
 
 - [Taller en PSPP](Taller_PSPP/Taller)
 - [Datos Agrupados](Datos_agrupados/Taller)
-- 
+ 
 
 ## III Corte - Predicción Lineal, Exponencial, Algorítmica y Mínimos Cuadrados Ordinarios
 
