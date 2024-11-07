@@ -1,0 +1,12 @@
+EXAMINE 
+	/VARIABLES= Resistencia
+	/MISSING=LISTWISE
+	/PLOT=BOXPLOT.
+	
+	FREQUENCIES
+	/VARIABLES= Resistencia
+	/FORMAT=AVALUE TABLE
+	/STATISTICS=NONE
+       /percentiles=90.
+
+
