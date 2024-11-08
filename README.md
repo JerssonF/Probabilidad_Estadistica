@@ -33,17 +33,21 @@ Estos ejercicios ayudaron a consolidar su comprensión de los conceptos estadís
 - [Datos Agrupados](Datos_agrupados/Taller)
  
 
-## III Corte - Predicción Lineal, Exponencial, Algorítmica y Mínimos Cuadrados Ordinarios
+## Introducción a la III Corte - Predicción Lineal, Exponencial, Algorítmica y Mínimos Cuadrados Ordinarios
+En esta sección del repositorio, nos enfocaremos en el análisis y la implementación de modelos de predicción que incluyen métodos como la predicción lineal, exponencial, algorítmica y la técnica de mínimos cuadrados ordinarios (OLS). Estos métodos son fundamentales en el análisis de datos y la creación de modelos predictivos que buscan optimizar la precisión y adaptabilidad a diferentes tipos de patrones en los datos.
 
-En el tercer corte de la clase de **Probabilidad y Estadística**, se trabajó con técnicas avanzadas de predicción y modelado, enfocándose en métodos de ajuste y regresión para analizar tendencias en los datos.
+## Contenidos:
+**Predicción Lineal:** Un método básico pero poderoso que asume una relación lineal entre las variables.
 
-### Temas Abordados
-- **Predicción Lineal**: Uso de la regresión lineal para modelar la relación entre variables y realizar predicciones basadas en datos históricos.
-- **Predicción Exponencial**: Aplicación de modelos exponenciales para describir y prever comportamientos de crecimiento o decaimiento rápido.
-- **Predicción Algorítmica**: Implementación de modelos algorítmicos para ajustar datos no lineales y mejorar la precisión en las predicciones.
-- **Mínimos Cuadrados Ordinarios (OLS)**: Uso del método de mínimos cuadrados ordinarios para estimar los parámetros de una función de regresión y minimizar el error cuadrático medio.
+**Predicción Exponencial:** Útil cuando los datos muestran un crecimiento o decrecimiento que sigue una tasa constante.
+
+**Predicción Algorítmica:** Emplea técnicas avanzadas para abordar problemas complejos de predicción.
+
+**Mínimos Cuadrados Ordinarios (OLS):** Un enfoque de regresión que minimiza la suma de los cuadrados de las diferencias entre los valores observados y los predichos.
 
 Estas técnicas permitieron comprender y aplicar métodos de predicción para resolver problemas prácticos y tomar decisiones basadas en análisis de datos.
 
 - [Taller](Tercer_corte/Taller)
+- [Predicción Exponencial](Tercer_Corte/Taller/Predicción_exponecial/)
+- [Predicción Algorítmica](Tercer_corte/Taller/Predicción_algorítmica)
 
